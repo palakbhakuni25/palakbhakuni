@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Palak Bhakuni</h1>
-<h3 align="center">Frontend developer and UI/UX designer</h3>
+<h3 align="center">UI/UX designer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
